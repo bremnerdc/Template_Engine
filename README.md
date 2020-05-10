@@ -1,6 +1,6 @@
 
 # Template Engine
-[![GitHub license](https://img.shields.io/badge/license-DWTYW-blue.svg)](https://github.com/bremnerdc/t-e-m-p-l-a-t-e- -e-n-g-i-n-e)
+[![GitHub license](https://img.shields.io/badge/license-DWTYW-blue.svg)](https://github.com/bremnerdc/t-e-m-p-l-a-t-e--e-n-g-i-n-e)
 
 ## Description
 
