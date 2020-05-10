@@ -12,7 +12,8 @@ The Template Engine is a “team generator” CLI (command line interface applic
 
 * [Usage](#usage)
 Use this application using node and the command line interface. 
-##License
+
+## License
       This project is licensed under DWTYW.
       
 * [License](#license)
