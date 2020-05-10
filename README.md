@@ -50,6 +50,9 @@ npm test app.js
 ## Git of application in action:
 ![Template_Generator2](https://user-images.githubusercontent.com/61300825/81492036-60a64a00-9249-11ea-9fce-4a8931aa309b.gif)
 
+## Link to GIF hosted on Imgur:
+https://imgur.com/a/aVitFlp
+
 ## Questions
 
 <img src="https://avatars3.githubusercontent.com/u/61300825?v=4" alt="avatar" style="border-radius: 16px" width="30" />
